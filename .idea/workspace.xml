@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8014555-f3e7-4853-9b5a-06bca030f20d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prosite 9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/Employe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/IGestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List/SocieteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Departement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/DepartementHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/IDepartement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Set/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,14 +23,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HaifaCheikh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HaifaCheikh/prosite-9.git",
+    "accountId": "afc19ff6-c40d-4de8-b995-7e6d1fecb941"
+  }
+}]]></component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -49,6 +57,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -76,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732059920172</updated>
-      <workItem from="1732059921270" duration="1673000" />
+      <workItem from="1732059921270" duration="2884000" />
     </task>
     <servers />
   </component>
