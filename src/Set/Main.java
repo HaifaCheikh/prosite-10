@@ -22,7 +22,7 @@ public class Main {
         departementHashSet.supprimerDepartement(d2);
         System.out.println("\nListe des départements après suppression de 'Ressources Humaines':");
         departementHashSet.displayDepartement();
-        
+
         System.out.println("\nListe des départements triée par ID:");
         departementHashSet.trierDepartementById().forEach(System.out::println);
     }
